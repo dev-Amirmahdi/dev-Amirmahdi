@@ -7,8 +7,13 @@
 ---
 
 ## 🚀 Tech Stack
+<h2 align="center">💻 Skills & Tech Stack</h2>
 
-### Front-End
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind,cs,dotnet" />
+</p>
+
+<!-- ### Front-End
 - HTML5
 - CSS3
 - JavaScript (ES6+)
@@ -19,7 +24,7 @@
 ### Back-End (Basic Knowledge)
 - C#
 - ASP.NET
-
+-->
 ---
 
 ## 📌 About Me
