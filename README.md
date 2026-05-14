@@ -10,6 +10,7 @@
 ### Front-End
 - HTML5
 - CSS3
+- React
 - JavaScript (ES6+)
 - jQuery
 - Bootstrap
